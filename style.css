@@ -1,0 +1,18 @@
+#container {
+    text-align: center;
+}
+
+.lista {
+    display: inline-block;
+    background-color: aqua;
+    width: 15%;
+    border-radius: 8px;
+}
+
+.container2 {
+    display: inline-block;
+    background-color: grey;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 20px
+}
