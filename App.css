@@ -1,12 +1,13 @@
-#container {
+.container-box {
     text-align: center;
 }
 
 .lista {
     display: inline-block;
     background-color: aqua;
-    width: 15%;
+    width: 200px;
     border-radius: 8px;
+    padding: 15px;
 }
 
 .container2 {
@@ -14,5 +15,10 @@
     background-color: grey;
     text-align: center;
     border-radius: 8px;
-    margin-top: 20px
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.concluida li {
+    color: green;
 }
